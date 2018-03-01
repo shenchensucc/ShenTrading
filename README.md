@@ -1,2 +1,3 @@
-# ShenTrading
-Bot to calculate and share trading record on steemit and more
+# Steemit Blogger
+
+The blogger bot to mining data and publish steemit blogs
