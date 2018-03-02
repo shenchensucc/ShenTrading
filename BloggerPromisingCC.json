@@ -1,0 +1,14 @@
+{
+    "url":      "https://coinmarketcap.com/all/views/all/",
+    "title":    "Price of the $LIMIT.en most promising cryptocurrencies 我心中的$LIMIT.zh大加密货币价格 ",
+    "json_metadata": {
+        "tags":     ["cn", "cn-cryptocurrency", "money", "busy"],
+        "app":      "steemit/0.1",
+        "format":   "markdown"
+    },
+    "limit": {
+        "value":    10,
+        "en":       "ten",
+        "zh":       "十"
+    }
+}
