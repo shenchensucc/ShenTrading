@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/MarcoXZh/SteemitBlogger2.git"
   },
-  "author": "MarcoXZh3",
+  "author": "MarcoXZh3" and "shenchensucc"
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/MarcoXZh/SteemitBlogger2/issues"
