@@ -1,6 +1,6 @@
 /**
  * bloggerPromisingCC: priomissing cryptocurrencies
- * @author:  MarcoXZh3
+ * @author:  MarcoXZh3 and shenchensucc
  * @version: 0.1.0
  */
 const cheerio = require('cheerio')
