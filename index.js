@@ -1,6 +1,6 @@
 /**
  * Main entry of the steemit blog autobot
- * @author  MarcoXZh3
+ * @author  MarcoXZh3 and shenchensucc
  * @version 0.0.5
  */
 module.exports.name = 'SteemitBlogger';
