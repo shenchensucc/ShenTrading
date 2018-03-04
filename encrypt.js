@@ -1,6 +1,6 @@
 /**
  * the process to encrypt Steemit author information
- * @author:  MarcoXZh3
+ * @author:  MarcoXZh3 and shenchensucc
  * @version: 1.0.0
  */
 const assert = require('assert');
