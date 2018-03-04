@@ -1,6 +1,6 @@
 /**
  * Encryption-related libraries
- * @author  MarcoXZh3
+ * @author  MarcoXZh3 and shenchensucc
  * @version 1.1.1
  */
 var name = module.exports.name = 'encryption';
