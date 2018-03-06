@@ -1,0 +1,25 @@
+{
+    "url":      "https://coinmarketcap.com/all/views/all/",
+    "image":    "https://cdn.pixabay.com/photo/2017/05/11/04/00/bitcoin-2302698_1280.jpg",
+    "photo": {
+        "from": "pixabay.com",
+        "url":  "https://pixabay.com/en/bitcoin-coin-money-electronic-money-2302698/"
+    },
+    "title":    "My cryptocurrency trading record 我的加密货币交易记录 ",
+    "json_metadata": {
+        "tags":     ["cn-shui", "cn-cryptocurrency", "money", "busy"],
+        "app":      "steemit/0.1",
+        "format":   "markdown"
+    },
+    "start": "2017-12-15",
+    "trading": [
+        ["Starting date",               "$START.en"],
+        ["开始日期",                    "$START.zh"],
+        ["Recording date",              "$RECORD.en"],
+        ["记录日期",                    "$RECORD.zh"],
+        ["Total recording time (days)", "$TOTAL.en"],
+        ["总时间（天数）",              "$TOTAL.zh"],
+        ["Earning rate",                "$EARN.en"],
+        ["盈利率",                      "$EARN.zh"]
+    ]
+}
